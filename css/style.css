@@ -1,0 +1,17 @@
+body {
+    background-color: #FAEBEB;
+}
+
+p, h2 {
+    color: black;
+}
+
+#less {
+    background-color: #1ADB51;
+    border-radius: 50%;
+}
+
+#more {
+    background-color: #DB1B1B;
+    border-radius: 50%;
+}
