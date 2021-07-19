@@ -2,8 +2,46 @@ body {
     background-color: #FAEBEB;
 }
 
+main {
+    width: 100%;
+    height: 100%;
+    padding: 1em 0 1em 0;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    flex-direction: column;
+}
+
+/* Scritta del contatore */
 p, h2 {
     color: black;
+    margin-bottom: 2px;
+}
+
+p {
+    background-color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4.5rem;
+}
+
+.counter {
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+/* I due bottoni */
+.buttons {
+    margin: 0 auto;
+    margin-bottom: 2px;
+}
+
+.add-less {
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
 }
 
 #less {
