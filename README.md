@@ -21,46 +21,17 @@
 - [License](#license)
 - [Contact Information](#contacts)
 
-<<<<<<< Updated upstream
-## General Info <id="general-info>
-# This is the count of Laguda Stefano.
-
-## Description <id="description">
-# This is my second project as Front-End Developer, the first using JavaScript.
-
-# Technologies <id="technologies">
-## Project created with:
- ##   * HTML5
- ##   * CSS3
- ##   * JavaScript ES6
-
-# Installation <id="installation">
-## To run this project:
-##  * Clone this repository to your desktop.
-##  * Navigate to the top level of the directory
-##  * Open index.html
-
-# Collaboration <id="collaboratio">
-## No collaboration
-
-# Licenze <id="licence">
-## No licence
-
-# Contact Information <id="contacts">
-# Laguda Stefano: [email](laguda92@gmail.com)
-
-=======
 # General Info
 ## This is the count of Laguda Stefano.
 
 # Description
 ## This is my second project as Front-End Developer, the first using JavaScript.
 
-# Technologies
+# Technologies 
 ## Project created with:
-   - HTML5
-   - CSS3
-   - JavaScript ES6
+  - HTML5
+  - CSS3
+  - JavaScript ES6
 
 # Installation
 ## To run this project:
@@ -75,4 +46,4 @@
 ## No licence
 
 # Contact Information
-## Laguda Stefano: [laguda92@gmail.com](laguda92@gmail.com)
+## Laguda Stefano: [email](laguda92@gmail.com)
