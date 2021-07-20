@@ -1,12 +1,12 @@
-# Progetto JavaScript Basics di Stefano Laguda
+# JavaScript Basics project by Stefano Laguda
 
-## Ciao a tutti, sono Laguda Stefano un Front-End Developer Student.
+## Hi everyone, I'm Laguda Stefano a Front-End Developer Student.
 
-### Attualmente sono disocuppato, vengo dai 7 anni di lavoro in una tabaccheria e ho deciso di reiventarmi.
-* Sono disponibile per lavorare
-* Sono portatore di protesi acustiche e
-* Attualmente sto imparando React, in futuro mi studierò Angular.
-* Fatti simpatici: sto cercando di imparare il shuffledance
+### I am currently unemployed, I have been working in a tobacconist for 7 years and I have decided to reinvent myself.
+* I am available to work.
+* I am a wearer of hearing aids.
+* I am currently learning React, in the future I will study Angular.
+* Nice Facts: I'm trying to learn shuffledance.
 
 
 # Counter
