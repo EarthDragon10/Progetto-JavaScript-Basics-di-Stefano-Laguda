@@ -46,4 +46,4 @@
 ### No licence
 
 # Contact Information
-### Laguda Stefano: [laguda92@gmail.com](laguda92@gmail.com)
+### E-mail: [laguda92@gmail.com](laguda92@gmail.com)
