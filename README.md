@@ -23,26 +23,26 @@
 ## General Info
 ### This is the count of Laguda Stefano.
 
-## Description <id="description">
+## Description
 ### This is my second project as Front-End Developer, the first using JavaScript.
 
-## Technologies <id="technologies">
+## Technologies
 ### Project created with:
    * HTML5
    * CSS3
    * JavaScript ES6
 
-## Installation <id="installation">
+## Installation
 ### To run this project:
   * Clone this repository to your desktop.
   * Navigate to the top level of the directory
   * Open index.html
 
-## Collaboration <id="collaboratio">
+## Collaboration
 ### No collaboration
 
-## Licenze <id="licence">
+## Licenze
 ### No licence
 
-## Contact Information <id="contacts">
+## Contact Information
 ### Laguda Stefano: [email](laguda92@gmail.com)
