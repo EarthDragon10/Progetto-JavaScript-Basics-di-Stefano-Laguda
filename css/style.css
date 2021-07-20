@@ -1,5 +1,5 @@
 body {
-    background-color: #FAEBEB;
+    background: linear-gradient(-150deg,#24c7f9,#07b0e3);
 }
 
 main {
@@ -35,21 +35,36 @@ p {
 /* I due bottoni */
 .buttons {
     margin: 0 auto;
-    margin-bottom: 2px;
 }
 
 .add-less {
     justify-content: center;
     align-items: center;
     margin: 0 auto;
+    padding-bottom: 20px;
 }
 
 #less {
     background-color: #1ADB51;
     border-radius: 50%;
+    height: 2.2rem;
+    width: 2.2rem;
 }
 
 #more {
     background-color: #DB1B1B;
     border-radius: 50%;
+    height: 2.2rem;
+    width: 2.2rem;
+}
+
+/* Reset */
+
+.reset {
+    display: flex;
+    width: 8px;
+    margin: 0 auto;
+    position: relative;
+    right: 22px;
+    border-style: none;
 }
