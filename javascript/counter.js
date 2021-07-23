@@ -1,4 +1,4 @@
-// ---- Codifica per la modifica del DOM ----
+// ---- Codice per la modifica del DOM ----
 
 // * Sezione della Scritta del Counter *
 // 1. Creo elementi HTML
