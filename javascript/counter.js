@@ -1,3 +1,18 @@
+//  Codifica per la modifica del DOM 
+
+// 1. Creo elementi HTML
+
+
+
+// 2. Imposto le classi e ID
+
+
+
+// 3. Riempimento di contenuto
+
+
+// Codice per il funzionamento del counter
+
 // Inizializzo le variabili
 let addCount = document.getElementById("more");
 let lessCount = document.getElementById("less");
