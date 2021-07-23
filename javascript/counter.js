@@ -20,16 +20,35 @@ divCounter.after(h2Counter);
 
 // --- Sezione dei bottoni ---
 // 1. Creo elementi HTML
+let sectionButtons = document.createElement("section");
+let divAddLess = document.createElement("div");
+let buttonAdd = document.createElement("button");
+let buttonLess = buttonAdd.cloneNode(false);
 
+let divReset = document.createElement("div");
+let buttonReset = buttonAdd.cloneNode(false);
 
 // 2. Imposto le classi e ID
+sectionButtons.classList.add("buttons");
+divAddLess.classList.add("add-less");
+buttonAdd.classList.add("more");
+buttonLess.className("less");
+
+buttonReset.className("reset");
 
 
 // 3. Riempimento di contenuto
-
+buttonAdd.innerHTML = "+";
+buttonLess.innerHTML = "-";
+buttonReset.innerHTML = "Reset";
 
 // 4. Inserimento Elementi HTML tramite il DOM
-
+sectionCounter.after(sectionButtons);
+sectionButtons.prepend(divAddLess);
+divAddLess.prepend(buttonLess);
+divAddLess.append(buttonAdd);
+divAddLess.after(divReset);
+divReset.prepend(buttonReset);
 
 // ---- Codice per il funzionamento del counter ----
 
