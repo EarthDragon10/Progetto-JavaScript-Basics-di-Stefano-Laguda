@@ -2,7 +2,7 @@
 
 // * Sezione della Scritta del Counter *
 // 1. Creo elementi HTML
-
+let mainSite = document.createElement("main");
 let sectionCounter = document.createElement("section");
 let divCounter = document.createElement("div");
 let h2Counter = document.createElement("h2");
@@ -14,7 +14,8 @@ divCounter.innerHTML = "<p>0</p>";
 h2Counter.innerHTML = "Counter";
 
 // 4. Inserimento Elementi HTML tramite il DOM
-document.body.prepend(sectionCounter);
+document.body.prepend(mainSite);
+mainSite.prepend(sectionCounter);
 sectionCounter.prepend(divCounter);
 divCounter.after(h2Counter);
 
@@ -23,18 +24,18 @@ divCounter.after(h2Counter);
 let sectionButtons = document.createElement("section");
 let divAddLess = document.createElement("div");
 let buttonAdd = document.createElement("button");
-let buttonLess = buttonAdd.cloneNode(false);
+let buttonLess = buttonAdd.cloneNode(true);
 
 let divReset = document.createElement("div");
-let buttonReset = buttonAdd.cloneNode(false);
+let buttonReset = buttonAdd.cloneNode(true);
 
 // 2. Imposto le classi e ID
 sectionButtons.classList.add("buttons");
 divAddLess.classList.add("add-less");
 buttonAdd.classList.add("more");
-buttonLess.className("less");
+buttonLess.classList.add("less");
 
-buttonReset.className("reset");
+buttonReset.classList.add("reset");
 
 
 // 3. Riempimento di contenuto
